@@ -1,0 +1,14 @@
+site_name: For a better world wiki
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Features:
+    - Device Manipulation: Features\DeviceManipulation.md
+  - Policies:
+    - Community Content: Policies\CommunityContent.md
+    - Monetization: Policies\Monetization.md
+    - Collabs: Policies\Collabs.md
+    - Song Request: Policies\SongRequest.md
